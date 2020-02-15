@@ -2,8 +2,8 @@ package decode
 
 import (
 	"context"
-	"testing"
 	"os"
+	"testing"
 )
 
 func TestDecodePNG(t *testing.T) {
