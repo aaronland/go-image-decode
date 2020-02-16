@@ -1,3 +1,4 @@
+// Package decode provides a common interface for decoding image file handles.
 package decode
 
 import (
